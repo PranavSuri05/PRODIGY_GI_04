@@ -1,4 +1,4 @@
-# PRODIGY_GI_04
+# Image to Image translation with CGAN
 This project implements an image-to-image translation model using the Pix2Pix architecture, which is a type of Conditional Generative Adversarial Network (cGAN). Pix2Pix is designed to convert one type of image into another, such as transforming sketches into photos or converting black-and-white images to color
 
 This repository presents an implementation of the Pix2Pix model, a prominent Conditional Generative Adversarial Network (cGAN) architecture designed for image-to-image translation tasks. Pix2Pix leverages the principles of GANs to perform tasks such as converting sketches to photographs, colorizing grayscale images, or enhancing image resolution.
